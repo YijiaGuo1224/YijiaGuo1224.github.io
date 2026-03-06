@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "hihi"
+title                    : "Yijia Guo"
+description              : ""
 repository               : "YijiaGuo1224/YijiaGuo1224.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yijia Guo"
   avatar           : "images/photo.jpg"
-  bio              : "nihao"
+  bio              : ""
   location         : "Liverpool, United Kingdom"
   employer         :
   pubmed           : 
